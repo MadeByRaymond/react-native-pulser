@@ -1,0 +1,22 @@
+{
+  "name": "react-native-pulser",
+  "version": "1.0.1",
+  "description": "A simple library to create pulse animation in react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeByRaymond/react-native-pulse.git"
+  },
+  "keywords": [
+    "'react-native'"
+  ],
+  "author": "'Raymond Obiekwe <madebyraymond@gmail.com> (http://madebyraymond.herokuapp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadeByRaymond/react-native-pulse/issues"
+  },
+  "homepage": "https://github.com/MadeByRaymond/react-native-pulse#readme"
+}
