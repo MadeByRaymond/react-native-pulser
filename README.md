@@ -1,4 +1,4 @@
-# react-native-pulse
+# React Native Pulser
 A simple library to create pulse animation in react native
 
 
