@@ -1,7 +1,7 @@
 # React Native Pulser
 A simple library to create pulse animation in react native
 
-
+<!-- ![react native pulse](https://raw.githubusercontent.com/sahlhoff/react-native-pulse/master/pulse-gif.gif) -->
 
 ### Installation
 ```bash
